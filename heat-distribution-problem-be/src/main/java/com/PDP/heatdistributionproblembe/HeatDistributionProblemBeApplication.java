@@ -1,13 +1,12 @@
-package com.POI;
+package com.PDP.heatdistributionproblembe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HeatDistributionProblemApplication {
+public class HeatDistributionProblemBeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HeatDistributionProblemApplication.class, args);
+		SpringApplication.run(HeatDistributionProblemBeApplication.class, args);
 	}
-
 }

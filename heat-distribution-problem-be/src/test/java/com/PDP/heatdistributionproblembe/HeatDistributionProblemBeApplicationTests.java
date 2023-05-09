@@ -1,10 +1,10 @@
-package com.POI;
+package com.PDP.heatdistributionproblembe;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HeatDistributionProblemApplicationTests {
+class HeatDistributionProblemBeApplicationTests {
 
 	@Test
 	void contextLoads() {
